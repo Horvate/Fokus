@@ -17,7 +17,7 @@ Este projeto foi desenvolvido com o objetivo de ajudar na gestão de tempo e aum
 
 ## 🚀 Preview
 
-![Preview do Projeto](./imagens/preview-fokus.gif)
+![Preview do Projeto](./imagens/fokus-0.gif)
 
 ## 🚀 Deploy
 
